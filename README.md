@@ -1,3 +1,16 @@
+To install:
+```
+pip install graphene[django]
+
+```
+
+
+To run:
+```
+cd demo
+./manage.py runserver
+```
+
 ES Data:
 
 ```
